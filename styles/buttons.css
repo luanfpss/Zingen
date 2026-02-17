@@ -20,8 +20,16 @@
 }
 
 .btn:hover {
-    --btn-bg-color: linear-gradient(90deg, var(--brand-color-secondary) 0%, var(--brand-color-primary) 100%);
-    --btn-color: var(--surface-color)
+    --btn-bg-color: linear-gradient(90deg, 
+    var(--brand-color-secondary) 0%, 
+    var(--brand-color-primary) 100%);
+
+    --btn-color: var(--surface-color);
+
+    -webkit-background-clip: initial;
+    background-clip: initial;
+    color: var(--btn-color);
+
 }
 
 .btn-sm {
@@ -46,9 +54,9 @@
     &::before {
         content: "";
         position: absolute;
-        background-color: var(--bg-color);
-        inset: 0.09375rem;
         border-radius: inherit;
+        inset: 0.09375rem;
+        background-color: var(--bg-color);
     }
 
     &::after {
@@ -57,5 +65,18 @@
         -webkit-background-clip: text;
         background-clip: text;
         color: transparent;
+        position: relative;
+    }
+}
+
+@media (width >= 80em) {
+    .btn-sm {
+        padding: .75rem 1.5rem;
+        font-size: var(--fs-base);
+    }
+
+    .btn-md {
+        padding: 1rem 2rem;
+        font-size: 1.125rem;
     }
 }
