@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/desktop.png" alt="Zingen Desktop" width="900">
+</p>
+<p align="center">
+  <img src="./assets/mobile.png" alt="Zingen Mobile" width="300">
+</p>
 # 🎤 Zingen – Landing Page de Aplicativo de Karaokê
 
 ## 📌 Sobre o Projeto
@@ -65,20 +71,7 @@ Utilizando Media Queries e técnicas modernas de layout para garantir uma boa ex
 
 Projeto desenvolvido como prática durante a formação **Full-Stack**, com foco em desenvolvimento web front-end.
 
-## 📸 Preview do Projeto
 
-### 💻 Versão Desktop
 
-<p align="center">
-  <img src="./assets/desktop.png" alt="Zingen Desktop" width="900">
-</p>
-
----
-
-### 📱 Versão Mobile
-
-<p align="center">
-  <img src="./assets/mobile.png" alt="Zingen Mobile" width="300">
-</p>
 
 
