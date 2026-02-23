@@ -2,10 +2,10 @@
   <img src="./assets/desktop.png" alt="Zingen Desktop" width="900">
 </p>
 <p align="center">
-  <img src="./assets/mobile.png" alt="Zingen Mobile" width="300">
+  <img src="./assets/pricing.png" alt="Zingen pricing" width="900">
 </p>
 <p align="center">
-  <img src="./assets/pricing.png" alt="Zingen pricing" width="900">
+  <img src="./assets/mobile.png" alt="Zingen Mobile" width="300">
 </p>
 # 🎤 Zingen – Landing Page de Aplicativo de Karaokê
 
