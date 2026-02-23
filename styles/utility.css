@@ -46,7 +46,7 @@
 }
 
 .grid {
-    gap: 1rem;
+    display: grid;
 }
 
 @media (width >= 80em) {
