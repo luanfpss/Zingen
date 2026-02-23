@@ -4,6 +4,9 @@
 <p align="center">
   <img src="./assets/mobile.png" alt="Zingen Mobile" width="300">
 </p>
+<p align="center">
+  <img src="./assets/pricing.png" alt="Zingen pricing" width="900">
+</p>
 # 🎤 Zingen – Landing Page de Aplicativo de Karaokê
 
 ## 📌 Sobre o Projeto
